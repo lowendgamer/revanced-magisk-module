@@ -15,7 +15,9 @@ excluded-patches = "'GmsCore support'"
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 version = "25.3.0"
-excluded-patches = "'Settings'"
+included-patches = "'Block audio ads' 'Block embedded ads' 'Block video ads'"
+exclusive-patches = true
+# excluded-patches = "'Auto claim channel points' 'Debug mode' 'Settings'"
 
 [Messenger]
 enabled = true
