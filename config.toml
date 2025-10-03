@@ -13,10 +13,11 @@ included-patches = "'Custom branding'"
 excluded-patches = "'GmsCore support'"
 
 [Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-version = "25.3.0"
-included-patches = "'Block audio ads' 'Block embedded ads' 'Block video ads'"
-exclusive-patches = true
+# apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+# version = "25.3.0"
+mediafire-dlurl = "https://www.mediafire.com/file/xkrv0789q44ju6m/Twitch_25.3.0.apk/file"
+# included-patches = "'Block audio ads' 'Block embedded ads' 'Block video ads'"
+# exclusive-patches = true
 # excluded-patches = "'Auto claim channel points' 'Debug mode' 'Settings'"
 
 [Messenger]
