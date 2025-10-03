@@ -13,7 +13,7 @@ included-patches = "'Custom branding'"
 excluded-patches = "'GmsCore support'"
 
 [Twitch]
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 version = "25.3.0"
 excluded-patches = "'Settings'"
 
