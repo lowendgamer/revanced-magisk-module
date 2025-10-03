@@ -1,5 +1,5 @@
-Messenger: 526.0.0.52.108  
-Twitch: 16.9.1  
+Messenger: 527.0.0.47.108  
+Viber: 26.1.2.0  
 YouTube: 20.14.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
