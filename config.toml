@@ -10,6 +10,7 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
 # included-patches = "'Custom branding'"
+patcher-args = "-e 'Custom branding' -OcustomName=YouTube"
 excluded-patches = "'GmsCore support'"
 
 [Messenger]
