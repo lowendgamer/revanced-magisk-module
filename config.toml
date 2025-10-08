@@ -27,7 +27,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 # arch = "arm64-v8a"
 
 [Infinity]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
+patcher-args = "-e 'Spoof client' -Oclient-id=VhWfJfr4qIV1mYQnRTOBzw"
 
 [Viber]
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/viber-media-s-a-r-l/viber/"
@@ -39,6 +40,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 # included-patches = "'Block audio ads' 'Block embedded ads' 'Block video ads'"
 # exclusive-patches = true
 # excluded-patches = "'Auto claim channel points' 'Debug mode' 'Settings'"
-
-
-
