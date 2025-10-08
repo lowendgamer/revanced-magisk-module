@@ -1,3 +1,4 @@
+Infinity: 8.0.5  
 Messenger: 527.0.0.47.108  
 YouTube: 20.14.43  
 
