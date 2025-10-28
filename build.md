@@ -1,5 +1,5 @@
-Infinity: 8.0.5  
-Messenger: 530.0.0.52.107  
+Infinity: 8.0.7  
+Messenger: 530.1.0.67.107  
 YouTube: 20.14.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
