@@ -30,6 +30,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
 patcher-args = "-e 'Spoof client' -Oclient-id=VhWfJfr4qIV1mYQnRTOBzw"
 
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+
 [Viber]
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/viber-media-s-a-r-l/viber/"
 # version = "26.1.2.0"
