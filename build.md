@@ -1,6 +1,4 @@
-Infinity: 8.0.8  
-Messenger: 545.0.0.0.1  
-YouTube: 20.14.43  
+Messenger: 547.0.0.44.68  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
