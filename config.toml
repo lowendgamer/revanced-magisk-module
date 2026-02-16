@@ -30,6 +30,7 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 [Twitch]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+version = "25.3.0"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Messenger]
