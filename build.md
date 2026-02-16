@@ -1,7 +1,4 @@
-Facebook: 490.0.0.63.82  
-Messenger: 548.0.0.37.65  
 Reddit: 2026.07.0  
-Twitch: 16.9.1  
 YouTube: 20.14.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
