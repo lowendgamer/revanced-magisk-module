@@ -6,13 +6,13 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "module"
-excluded-patches = "'GmsCore support'"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+# [YouTube]
+#build-mode = "module"
+#excluded-patches = "'GmsCore support'"
+#version = "auto"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+## archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
@@ -27,10 +27,10 @@ patcher-args = "-e 'Spoof client' -Oclient-id=VhWfJfr4qIV1mYQnRTOBzw"
 #uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
-[Twitch]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-version = "25.3.0"
+# [Twitch]
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+# uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+# version = "25.3.0"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 #[Messenger]
