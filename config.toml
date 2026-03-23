@@ -32,5 +32,5 @@ parallel-jobs = 1
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-version = "2026.08.0"
+version = "2026.06.0"
 dpi = "120-640dpi"
