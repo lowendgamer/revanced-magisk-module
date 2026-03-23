@@ -6,11 +6,11 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "module"
-excluded-patches = "'GmsCore support'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+#[YouTube]
+#build-mode = "module"
+#excluded-patches = "'GmsCore support'"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+#uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 #[Reddit-Morphe]
@@ -24,7 +24,13 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 #uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 #dpi = "120-640dpi"
 
+#[Reddit]
+#apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+#uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+#dpi = "120-640dpi"
+
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+version = "2026.08.0"
 dpi = "120-640dpi"
