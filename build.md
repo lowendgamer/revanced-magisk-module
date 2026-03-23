@@ -1,4 +1,4 @@
-Reddit: 2026.08.0  
+Reddit: 2026.06.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
