@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube-Morphe]
+[Morphe]
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 patches-version = "dev"
@@ -14,7 +14,6 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "module"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 #[YouTube-Morphe]
 #app-name = "YouTube"
@@ -24,4 +23,4 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 #rv-brand = "Morphe"
 #build-mode = "module"
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
