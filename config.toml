@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Morphe]
+[YouTube-Morphe]
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 patches-version = "dev"
