@@ -1,6 +1,6 @@
 {
-  "version": "v21.13.164 (patches 1.44.0.mpp)",
-  "versionCode": 179,
-  "zipUrl": "https://github.com/lowendgamer/revanced-magisk-module/releases/download/179/youtube-morphe-module-v21.13.164-all.zip",
+  "version": "v21.13.164 (patches dev.2.mpp)",
+  "versionCode": 180,
+  "zipUrl": "https://github.com/lowendgamer/revanced-magisk-module/releases/download/180/youtube-morphe-module-v21.13.164-all.zip",
   "changelog": "https://raw.githubusercontent.com/lowendgamer/revanced-magisk-module/update/build.md"
 }
