@@ -18,12 +18,13 @@ build-mode = "module"
 #dpi = "nodpi"
 #version = "21.16.256"
 #version = "21.13.164"
-#version = "21.04.223"
-direct-dlurl = "https://github.com/E85Addict/APKs/releases/tag/com.google.android.youtube"
+version = "21.04.223"
+direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.04.223-all.apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-enable-update-checks = true
 
 #[YouTube-Morphe]
+# direct download url. the url must have point to an apk file with name format shown in this example
+#direct-dlurl = "https://website/com.google.android.youtube-20.40.45-all.apk"
 #app-name = "YouTube"
 #patches-source = "MorpheApp/morphe-patches"
 #patches-version = "dev"
