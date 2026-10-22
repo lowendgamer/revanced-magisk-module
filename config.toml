@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube-Morphe]
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
-#patches-version = "dev"
+patches-version = "dev"
 #patches-version = "v1.48.0-dev.12" 
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
@@ -17,10 +17,10 @@ build-mode = "module"
 #arch = "all"
 #dpi = "nodpi"
 #version = "21.16.256"
-version = "21.13.164"
+#version = "21.13.164"
 #version = "21.07.247"
-#direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
-direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.13.164-all.apk"
+direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
+#direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.13.164-all.apk"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 #[YouTube-Morphe]
