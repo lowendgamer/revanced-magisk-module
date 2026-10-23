@@ -6,22 +6,33 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube-Morphe]
-app-name = "YouTube"
-patches-source = "MorpheApp/morphe-patches"
-patches-version = "dev"
+#[YouTube-Morphe]
+#app-name = "YouTube"
+#patches-source = "MorpheApp/morphe-patches"
+#patches-version = "dev"
 #patches-version = "v1.48.0-dev.12" 
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Morphe"
-build-mode = "module"
+#cli-source = "MorpheApp/morphe-cli"
+#rv-brand = "Morphe"
+#build-mode = "module"
 #arch = "all"
 #dpi = "nodpi"
 #version = "21.16.256"
 #version = "21.13.164"
 #version = "21.07.247"
-direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
+#direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
 #direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.13.164-all.apk"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[Facebook-Morphe}
+app-name = "Facebook"
+patches-source = "SysAdminDoc/HushFacebook" 
+rv-brand = "Hush"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "584.0.0.51.56"
+cli-source = "MorpheApp/morphe-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 #[YouTube-Morphe]
 # direct download url. the url must have point to an apk file with name format shown in this example
