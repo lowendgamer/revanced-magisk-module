@@ -23,7 +23,7 @@ parallel-jobs = 1
 #direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.13.164-all.apk"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Facebook-Morphe}
+[Facebook-Morphe]
 app-name = "Facebook"
 patches-source = "SysAdminDoc/HushFacebook" 
 rv-brand = "Hush"
