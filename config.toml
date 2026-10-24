@@ -16,9 +16,11 @@ rv-brand = "Morphe"
 build-mode = "module"
 #arch = "all"
 #dpi = "nodpi"
-version = "21.20.405"
+#version = "21.23.492"
+#version = "21.20.405"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
+direct-dlurl = "https://github.com/steven7851/revanced-magisk-module/releases/download/1/com.google.android.youtube-21.23.492-all.apk"
+#direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
 
 
 #[Facebook-Morphe]
