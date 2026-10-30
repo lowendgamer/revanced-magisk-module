@@ -6,34 +6,23 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-#[YouTube-Morphe]
-#app-name = "YouTube"
-#patches-source = "MorpheApp/morphe-patches"
-#patches-version = "dev"
+[YouTube-Morphe]
+app-name = "YouTube"
+patches-source = "MorpheApp/morphe-patches"
+patches-version = "dev"
 #patches-version = "v1.48.0-dev.12" 
-#cli-source = "MorpheApp/morphe-cli"
-#rv-brand = "Morphe"
-#build-mode = "module"
-#included-patches = "'Change header' 'Custom branding'"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Morphe"
+build-mode = "module"
+included-patches = "'Change header' 'Custom branding'"
 #excluded-patches = "'GmsCore support'"
 #arch = "all"
 #dpi = "nodpi"
 #version = "21.23.492"
 #version = "21.20.405"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-#direct-dlurl = "https://github.com/steven7851/revanced-magisk-module/releases/download/1/com.google.android.youtube-21.30.216-all.apk"
+direct-dlurl = "https://github.com/steven7851/revanced-magisk-module/releases/download/1/com.google.android.youtube-21.30.216-all.apk"
 #direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
-
-[YouTube-Morphe]
-app-name = "YouTube"
-patches-source = "MorpheApp/morphe-patches"
-patches-version = "dev"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Morphe"
-build-mode = "both"
-arch = "all"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 #[Facebook-Morphe]
 #app-name = "Facebook"
