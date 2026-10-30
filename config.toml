@@ -30,10 +30,10 @@ patches-source = "MorpheApp/morphe-patches"
 patches-version = "dev"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
-build-mode = "module"
+build-mode = "both"
 arch = "all"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 #[Facebook-Morphe]
 #app-name = "Facebook"
