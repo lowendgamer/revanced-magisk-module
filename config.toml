@@ -32,7 +32,7 @@ rv-brand = "Patcheddit"
 direct-dlurl = "https://www.mediafire.com/file/8ijpjh8b9ct40d4/boost-for-reddit-1.14.4-all.apk"
 #direct-dlurl = "https://github.com/rubenmayayo/boost-for-reddit/releases/download/v1.14.4/boost-for-reddit-1.14.4.apk"
 #uptodown-dlurl = "https://boost-for-reddit.en.uptodown.com/android"
-version = "v1.14.4"
+version = "1.14.4"
 patcher-args = "-e 'Spoof client' -Oclient-id=yH0aTnJEt6qUgGn835B4vg"
 
 #[Facebook-Morphe]
