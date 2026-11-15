@@ -25,6 +25,13 @@ direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.a
 #direct-dlurl = https://github.com/steven7851/revanced-magisk-module/releases/download/1/com.google.android.youtube-21.30.216-arm64-v8a.apk
 #direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
 
+[Boost]
+build-mode = "apk"
+patches-source = "wchill/patcheddit"
+rv-brand = "patcheddit"
+direct-dlurl = "https://github.com/rubenmayayo/boost-for-reddit/releases/download/v1.14.4/boost-for-reddit-1.14.4.apk"
+version = "1.14.4"
+
 #[Facebook-Morphe]
 #app-name = "Facebook"
 #patches-source = "SysAdminDoc/HushFacebook" 
