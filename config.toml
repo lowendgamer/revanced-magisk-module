@@ -26,7 +26,6 @@ parallel-jobs = 1
 ###direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
 
 [Boost]
-build-mode = "apk"
 patches-source = "wchill/patcheddit"
 rv-brand = "Patcheddit"
 direct-dlurl = "https://www.mediafire.com/file/8ijpjh8b9ct40d4/boost-for-reddit-1.14.4-all.apk"
