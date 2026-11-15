@@ -28,6 +28,7 @@ parallel-jobs = 1
 [Boost]
 build-mode = "apk"
 arch = "all"
+dpi = "nodpi"
 patches-source = "wchill/patcheddit"
 rv-brand = "Patcheddit"
 direct-dlurl = "https://github.com/rubenmayayo/boost-for-reddit/releases/download/v1.14.4/boost-for-reddit-1.14.4.apk"
