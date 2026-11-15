@@ -25,7 +25,8 @@ parallel-jobs = 1
 ###direct-dlurl = https://github.com/steven7851/revanced-magisk-module/releases/download/1/com.google.android.youtube-21.30.216-arm64-v8a.apk
 ###direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.android.youtube/com.google.android.youtube-21.20.405-all.apk"
 
-[Boost]
+[Boost-for-Reddit]
+app-name = "Boost"
 patches-source = "wchill/patcheddit"
 rv-brand = "Patcheddit"
 direct-dlurl = "https://www.mediafire.com/file/8ijpjh8b9ct40d4/boost-for-reddit-1.14.4-all.apk"
