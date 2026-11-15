@@ -28,9 +28,10 @@ direct-dlurl = "https://github.com/E85Addict/APKs/releases/download/com.google.a
 [Boost]
 build-mode = "apk"
 patches-source = "wchill/patcheddit"
-rv-brand = "patcheddit"
+rv-brand = "Patcheddit"
 direct-dlurl = "https://github.com/rubenmayayo/boost-for-reddit/releases/download/v1.14.4/boost-for-reddit-1.14.4.apk"
 version = "1.14.4"
+patcher-args = "-e 'Spoof client' -Oclient-id=KNujmq0GJ3wJ3vVPveTs7g"
 
 #[Facebook-Morphe]
 #app-name = "Facebook"
